@@ -1,6 +1,7 @@
 # NeuraFLY 
 
 ## Overview
+![Neurafly Logo](https://github.com/OSCOWL/Neurafly_VFC1.1/assets/91824434/cf875451-51cc-4c6d-84e7-c496783ede10)
 
 Welcome to the NeuraFLY project repository! NeuraFLY is an educational initiative aimed at exploring the integration of artificial intelligence (AI) into flight controller systems for unmanned aerial vehicles (UAVs). This project serves as a learning resource for students, hobbyists, and enthusiasts interested in aerospace engineering, robotics, and AI.
 
